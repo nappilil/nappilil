@@ -18,7 +18,7 @@
 
  💼 Currently working part-time at Code Ninjas, creating curriculums and teaching children how to code!
 
- :mailbox:How to reach me: [nappilil@stevens.edu]
+ :mailbox: How to reach me: [nappilil@stevens.edu]
  
  😄 Pronouns: [She/Her]
 
