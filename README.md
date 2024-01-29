@@ -12,13 +12,15 @@
 </div>
 
 ### 👩‍💻 About Me :
-- :telescope: I’m an undergraduate 3/4 Computer Science Major at Stevens Institute of Technology
+ 🎓 I’m an undergraduate 3/4 Computer Science Major at Stevens Institute of Technology
 
-- :seedling: Exploring Machine Learning and Full-stack development
+ :seedling: Exploring Machine Learning and Full-stack development
 
-- :zap: I also work part time at Code Ninjas, creating curriculums and teaching children how to code!
+ 💼 Currently working part-time at Code Ninjas, creating curriculums and teaching children how to code!
 
-- :mailbox:How to reach me: [nappilil@stevens.edu].
+ :mailbox:How to reach me: [nappilil@stevens.edu]
+ 
+ 😄 Pronouns: [She/Her]
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
