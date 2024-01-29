@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RbtJJPft2P7rcpbBdb/giphy.gif" width="100"/>
-</div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/lilli-nappi-727402262/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,6 +9,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+</div>
 <!--
 **nappilil/nappilil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
