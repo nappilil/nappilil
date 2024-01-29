@@ -47,6 +47,5 @@
 </div>
 
 ### 🔥 My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nappilil)](https://github.com/anuraghazra/github-readme-stats)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nappilil&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nappilil&layout=compact&theme=radical)
 </div>
