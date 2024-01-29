@@ -1,4 +1,7 @@
 ### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/RbtJJPft2P7rcpbBdb/giphy.gif" width="100"/>
+</div>
 
 <!--
 **nappilil/nappilil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
