@@ -17,7 +17,7 @@
 
 - :zap: I also work part time at Code Ninjas, creating curriculums and teaching children how to code!
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lilli-nappi-727402262/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/lilli-nappi-727402262/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
