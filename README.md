@@ -9,6 +9,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+</div>
 
 ### 👩‍💻 About Me :
 - :telescope: I’m an undergraduate 3/4 Computer Science Major at Stevens Institute of Technology
@@ -17,7 +18,7 @@
 
 - :zap: I also work part time at Code Ninjas, creating curriculums and teaching children how to code!
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/lilli-nappi-727402262/)
+- :mailbox:How to reach me: [nappilil@stevens.edu].
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
