@@ -12,7 +12,7 @@
 </div>
 
 ### 👩‍💻 About Me :
- 🎓 I’m an 3/4 Undergraduate at Stevens Institute of Technology pursing my Bachelor's Degree in Computer Science
+ 🎓 3/4 Undergraduate Student at Stevens Institute of Technology pursing my Bachelor's Degree in Computer Science
 
  :seedling: Exploring Machine Learning and Full-stack development
 
