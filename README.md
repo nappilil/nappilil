@@ -12,7 +12,7 @@
 </div>
 
 ### 👩‍💻 About Me :
- 🎓 I’m an undergraduate 3/4 Computer Science Major at Stevens Institute of Technology
+ 🎓 I’m an 3/4 Undergraduate at Stevens Institute of Technology pursing my Bachelor's Degree in Computer Science
 
  :seedling: Exploring Machine Learning and Full-stack development
 
