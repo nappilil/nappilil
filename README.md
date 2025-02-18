@@ -16,7 +16,7 @@
 
  :seedling: Exploring Machine Learning and Full-stack development
 
- 💼 Currently working part-time at Code Ninjas, implenting coding programs and teaching children how to code!
+ 💼 Currently working part-time at Code Ninjas Home Office, implenting coding programs and curriculums!
 
  :mailbox: How to reach me: [nappilil@stevens.edu]
  
