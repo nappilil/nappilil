@@ -38,7 +38,7 @@
   <img src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;</img>
   <img src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg" title="postgresql"  alt="postgresql" width="40" height="40"/>&nbsp;</img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;</img>
-  <img src="https://devicon-website.vercel.app/api/mongodb/original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;</img>
+  <img src="https://devicon-website.vercel.app/api/mongodb/original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;</img>
     <img src="https://devicon-website.vercel.app/api/graphql/plain.svg" title="graphql" alt="graphql" width="40" height="40"/>&nbsp;</img>
   <img src="https://devicon-website.vercel.app/api/redis/original.svg" title="redis" alt="redis" width="40" height="40"/>&nbsp;</img>
   <img src="https://devicon-website.vercel.app/api/jupyter/original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;</img>
