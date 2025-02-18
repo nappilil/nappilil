@@ -24,23 +24,37 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"  title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="Unix" alt="Unix" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ocaml/ocaml-original.svg" title="OCaml" alt="OCaml" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;</img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;</img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"  title="C" alt="C" width="40" height="40"/>&nbsp;</img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;</img>
+  <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;></img>
+  <img src="https://devicon-website.vercel.app/api/docker/original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;</img>
+  <img src="https://devicon-website.vercel.app/api/handlebars/original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;</img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;</img>
+  <img src="https://devicon-website.vercel.app/api/react/original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;</img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;</img>
+  <img src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;</img>
+  <img src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg" title="postgresql"  alt="postgresql" width="40" height="40"/>&nbsp;</img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;</img>
+  <img src="https://devicon-website.vercel.app/api/mongodb/original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;</img>
+  <img src="https://devicon-website.vercel.app/api/redis/original.svg" title="redis" alt="redis" width="40" height="40"/>&nbsp;</img>
+  <img src="https://devicon-website.vercel.app/api/nextjs/original.svg" title="nextjs" alt="nextjs" width="40" height="40"/>&nbsp;</img>
+  <img src="https://devicon-website.vercel.app/api/jupyter/original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;</img>
+  <img src="https://devicon-website.vercel.app/api/tensorflow/original-wordmark.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;></img>
+  <img src="https://devicon-website.vercel.app/api/kaggle/original.svg" title="kaggle" alt="kaggle" width="40" height="40"/>&nbsp;></img>
+  <img src="https://devicon-website.vercel.app/api/typescript/original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;</img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;</img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="Unix" alt="Unix" width="40" height="40"/>&nbsp;</img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;</img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ocaml/ocaml-original.svg" title="OCaml" alt="OCaml" width="40" height="40"/>&nbsp;</img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;</img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;</img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;</img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;</img>
+  <img src="https://devicon-website.vercel.app/api/ubuntu/plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;</img>
+
 </div>
 
 ### 🔥 My Stats :
