@@ -21,8 +21,6 @@
 
  💼 Currently working part-time at Code Ninjas Home Office, implenting coding programs and curriculums!
 
- 
- 😄 Pronouns: [She/Her]
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
