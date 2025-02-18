@@ -59,6 +59,5 @@
 
 ### 🔥 My Stats :
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nappilil&layout=compact&theme=tokyonight)
-[![Trophy](https://github-profile-trophy.vercel.app/?username=nappilil&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
