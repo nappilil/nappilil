@@ -4,6 +4,9 @@
   <a href="https://www.linkedin.com/in/lilli-nappi-727402262/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+    <a href="mailto:lnappi@stevens.edu">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
+  </a>
 </div>
 <h1>
   hey there
@@ -18,7 +21,6 @@
 
  💼 Currently working part-time at Code Ninjas Home Office, implenting coding programs and curriculums!
 
- :mailbox: How to reach me: [lnappi@stevens.edu]
  
  😄 Pronouns: [She/Her]
 
