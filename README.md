@@ -28,8 +28,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;</img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"  title="C" alt="C" width="40" height="40"/>&nbsp;</img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;</img>
-  <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;</img>
-  <img src="https://devicon-website.vercel.app/api/docker/original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;</img>
+  <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;</img> 
+  <img src="https://devicon-website.vercel.app/api/docker/original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;</img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;</img>
   <img src="https://devicon-website.vercel.app/api/handlebars/original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;</img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;</img>
@@ -42,8 +42,8 @@
   <img src="https://devicon-website.vercel.app/api/redis/original.svg" title="redis" alt="redis" width="40" height="40"/>&nbsp;</img>
   <img src="https://devicon-website.vercel.app/api/nextjs/original.svg" title="nextjs" alt="nextjs" width="40" height="40"/>&nbsp;</img>
   <img src="https://devicon-website.vercel.app/api/jupyter/original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;</img>
-  <img src="https://devicon-website.vercel.app/api/tensorflow/original-wordmark.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;></img>
-  <img src="https://devicon-website.vercel.app/api/kaggle/original.svg" title="kaggle" alt="kaggle" width="40" height="40"/>&nbsp;></img>
+  <img src="https://devicon-website.vercel.app/api/tensorflow/original-wordmark.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;</img>
+  <img src="https://devicon-website.vercel.app/api/kaggle/original.svg" title="kaggle" alt="kaggle" width="40" height="40"/>&nbsp;</img>
   <img src="https://devicon-website.vercel.app/api/typescript/original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;</img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;</img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="Unix" alt="Unix" width="40" height="40"/>&nbsp;</img>
