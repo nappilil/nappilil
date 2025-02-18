@@ -60,5 +60,6 @@
 ### 🔥 My Stats :
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nappilil&layout=compact&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nappilil&show_icons=true&theme=tokyonight)
+![Visitor Count](https://komarev.com/ghpvc/?username=nappilil&color=blueviolet)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nappilil&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
