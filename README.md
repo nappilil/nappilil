@@ -17,7 +17,7 @@
 ### 👩‍💻 About Me :
  💼 Currently working as an AI Operational Analyst at BD (Becton Dickinson)
 
- 🎓 Graudated from Stevens Institure of Technology with a Bachelor of Science in Computer Science and Minor in Science, Technology, and Society
+ 🎓 Graudated from Stevens Institute of Technology with a Bachelor of Science in Computer Science and Minor in Science, Technology, and Society
 
 
 ### :hammer_and_wrench: Languages and Tools :
