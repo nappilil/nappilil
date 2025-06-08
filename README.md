@@ -15,11 +15,9 @@
 </div>
 
 ### 👩‍💻 About Me :
- 🎓 4/4 Undergraduate Student at Stevens Institute of Technology pursing my Bachelor's Degree in Computer Science
+ 💼 Currently working as an AI Operational Analyst at BD (Becton Dickinson)
 
- :seedling: Exploring Machine Learning and Full-stack development
-
- 💼 Currently working part-time at Code Ninjas Home Office, implenting coding programs and curriculums!
+ 🎓 Graudated from Stevens Institure of Technology with a Bachelor of Science in Computer Science and Minor in Science, Technology, and Society
 
 
 ### :hammer_and_wrench: Languages and Tools :
